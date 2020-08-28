@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Izzy's Portfolio!
 
 You can use the [editor on GitHub](https://github.com/isabellewu23/porfolioizzy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
